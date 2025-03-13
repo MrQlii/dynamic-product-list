@@ -20,7 +20,7 @@
                         <th class="border p-3">Produk</th>
                         <th class="border p-3">Kategori</th>
                         <th class="border p-3">Gambar</th>
-                        <th class="border p-3 text-center">Aksi</th>
+                        <th class="border p-3 text-center">Opsi Produk</th>
                     </tr>
                 </thead>
                 <tbody id="productTable"></tbody>
